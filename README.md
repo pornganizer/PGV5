@@ -14,3 +14,5 @@ Built in media player with related tag lookups
 Splooge counter
 
 +more
+
+Find the latest release here: https://github.com/pornganizer/PGV5/releases
