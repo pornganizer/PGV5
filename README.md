@@ -15,4 +15,8 @@ Splooge counter
 
 +more
 
-Find the latest release here: https://github.com/pornganizer/PGV5/releases
+Find the latest release here: 
+
+https://github.com/pornganizer/PGV5/releases
+
+https://www.patreon.com/pgv3
