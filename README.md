@@ -22,6 +22,7 @@ https://github.com/pornganizer/PGV5/releases
 https://www.patreon.com/pgv3
 
 (this information is V4 specific but much of it applies equally to v5)
+
 HERE FOLLOWS GERN BLANSTON'S "GETTING STARTED" GUIDE TO PGv4: 
 
 First, open PG and if you haven't already, create a Database for your porn via the button on the opening page. If you have an SSD, I'd suggest creating it there if you have the space. When you open that database for the first time, it will be empty. Your aim is to fill it with the videos in your collection, then associate those videos to different types of descriptive tags, so you can sort through your collection via queries against those tags. For example, you could query for all videos starring Alexis Texas, from Digital Playground, that contain threesomes. 
