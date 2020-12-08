@@ -21,6 +21,8 @@ https://github.com/pornganizer/PGV5/releases
 
 https://www.patreon.com/pgv3
 
+
+
 (this information is V4 specific but much of it applies equally to v5)
 
 HERE FOLLOWS GERN BLANSTON'S "GETTING STARTED" GUIDE TO PGv4: 
